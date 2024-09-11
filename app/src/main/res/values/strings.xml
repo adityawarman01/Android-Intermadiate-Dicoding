@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SubmissionIntermediate</string>
+
+    <!-- layout login-->
+    <string name="title">Selamat Datang di Story Apps</string>
+    <string name="description_login">Silahkan input email dan password untuk melakukan login</string>
+    <string name="move_to_regis">Not have an account ?</string>
+    <string name="click_here_register">Click here</string>
+    <string name="login_page">Halaman Login</string>
+    <string name="login">Login</string>
+
+    <!-- layout register -->
+    <string name="title_regis">Selamat Datang Kembali di Story Apps! Silahkan mengisi data untuk membuat akun</string>
+    <string name="description_regis">Silahkan mengisi data untuk membuat akun</string>
+    <string name="move_to_login">Already have an account ? </string>
+    <string name="click_here_login">Click here</string>
+    <string name="register_page">Halaman Register</string>
+    <string name="sign_in">Sign In/Register</string>
+    <string name="register_here">REGISTER</string>
+
+    <!-- add layout -->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="new_story">New Story</string>
+
+    <!-- main page -->
+    <string name="story">Story</string>
+
+    <!-- item row layout  -->
+    <string name="story_title">Title</string>
+    <string name="desc_story">Description</string>
+
+    <!-- detail story -->
+    <string name="detail_story">Detail Story</string>
+
+    <!-- menu -->
+    <string name="map">Map</string>
+    <string name="logout">Logout</string>
+
+    <!-- costumView -->
+    <string name="error_email">your email is not valid</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
